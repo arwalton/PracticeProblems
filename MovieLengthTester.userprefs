@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{FFC3790C-A6D1-4FAD-B7DC-FACD20517A8B}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="MovieLengthTester\Program.cs">
+    <Files>
+      <File FileName="MovieLengthTester\Program.cs" Line="62" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MovieLengthTester PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

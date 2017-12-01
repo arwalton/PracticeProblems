@@ -1,0 +1,4 @@
+F:\Users\Adam\Documents\Projects\MovieLengthTester\MovieLengthTester\bin\Debug\MovieLengthTester.exe
+F:\Users\Adam\Documents\Projects\MovieLengthTester\MovieLengthTester\bin\Debug\MovieLengthTester.pdb
+F:\Users\Adam\Documents\Projects\MovieLengthTester\MovieLengthTester\obj\x86\Debug\MovieLengthTester.exe
+F:\Users\Adam\Documents\Projects\MovieLengthTester\MovieLengthTester\obj\x86\Debug\MovieLengthTester.pdb
