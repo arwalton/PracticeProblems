@@ -1,0 +1,4 @@
+F:\CsExercises\FindReflectionPoint\FindReflectionPoint\bin\Debug\FindReflectionPoint.exe
+F:\CsExercises\FindReflectionPoint\FindReflectionPoint\bin\Debug\FindReflectionPoint.pdb
+F:\CsExercises\FindReflectionPoint\FindReflectionPoint\obj\x86\Debug\FindReflectionPoint.exe
+F:\CsExercises\FindReflectionPoint\FindReflectionPoint\obj\x86\Debug\FindReflectionPoint.pdb

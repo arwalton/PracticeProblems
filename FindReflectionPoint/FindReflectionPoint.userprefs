@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{6BCF1A96-472D-4EFD-93C6-E757F9B8FE48}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="FindReflectionPoint\FindReflectionPoint.cs">
+    <Files>
+      <File FileName="FindReflectionPoint\FindReflectionPoint.cs" Line="112" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FindReflectionPoint PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
